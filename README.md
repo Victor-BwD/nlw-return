@@ -77,8 +77,4 @@ $ npm run start
 # Após isso escaneie o código QR no seu aplicativo Expo
 ```
 
-## 📝 Licença
-
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
-
 <p align="center">Feito com 💜 por Victor B. Dornelles</p>
